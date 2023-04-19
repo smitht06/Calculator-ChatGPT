@@ -1,6 +1,6 @@
 PySide6 Calculator Creation \
 user: all code to make a calculator in pyside6
-assistant: Creating a simple calculator using PySide6 involves setting up the UI, handling button clicks, and performing calculations based on user\ input. Below is a step-by-step guide to create a basic calculator:\
+assistant: Creating a simple calculator using PySide6 involves setting up the UI, handling button clicks, and performing calculations based on user\ input. Below is a step-by-step guide to create a basic calculator:
 
 1. Install PySide6: Make sure you have PySide6 installed. If you haven't, you can install it using pip:
 
